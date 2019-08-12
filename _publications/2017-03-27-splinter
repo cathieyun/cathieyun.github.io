@@ -1,7 +1,7 @@
 ---
 title: "Splinter: Practical Private Queries on Public Data"
 collection: publications
-permalink: /publication/2017-03-splinter
+permalink: /publication/2017-03-27-splinter
 excerpt: 'This paper presents Splinter, a system that protects
 users’ queries on public datasets while achieving practical
 performance for many current web applications.'
