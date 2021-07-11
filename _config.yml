@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cathie Yun"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Security Engineer, Applied Cryptographer"
   location         : "San Francisco Bay Area"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "cathieyun"
   google_plus      :
   keybase          : "cathie"
-  instagram        : "duriandirtbag"
+  instagram        :
   impactstory      : 
   lastfm           :
   linkedin         : "cathieyun"
