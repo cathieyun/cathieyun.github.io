@@ -1,6 +1,7 @@
 ---
 title: "How Bulletproofs Works"
 collection: talks
+type: "Lecture"
 permalink: /talks/2019-08-11-bulletproofs
 venue: "DEFCON27 Monero Village"
 date: 2019-08-11
