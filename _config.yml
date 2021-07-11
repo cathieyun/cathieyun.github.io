@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cathie Yun"
   avatar           : "profile.png"
-  bio              : "Applied cryptographer - interested in privacy, zero knowledge proofs, and security engineering."
+  bio              : "Security Engineer, Applied Cryptographer"
   location         : "San Francisco Bay Area"
   employer         :
   pubmed           : 
@@ -109,6 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  medium           : "cathieyun"
   twitter          : "cathieyun"
   vine             :
   weibo            :
