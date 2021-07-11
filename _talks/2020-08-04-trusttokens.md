@@ -1,7 +1,6 @@
 ---
 title: "Trust Tokens: How Much Do We Trust Them?"
 collection: talks
-type: "Presentation"
 permalink: /talks/2020-08-04-trusttokens
 venue: "0x0G (Google's DEFCON event)"
 date: 2020-08-04
