@@ -5,7 +5,7 @@ type: "Lecture"
 permalink: /talks/2019-08-11-bulletproofs
 venue: "DEFCON27 Monero Village"
 date: 2019-08-11
-location: "Las Vegas NV, USA"
+location: "Las Vegas, NV"
 ---
 
 [Video](https://www.youtube.com/watch?v=un7-pwkZRDc&feature=youtu.be&t=4632) and [Slides](https://speakerdeck.com/cathieyun/how-bulletproofs-works)
