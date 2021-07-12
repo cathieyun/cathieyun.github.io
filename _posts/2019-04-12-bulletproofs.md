@@ -1,6 +1,6 @@
 ---
 title: 'Building on Bulletproofs'
-date: 2018-11-19
+date: 2019-04-12
 permalink: /posts/2019-04-12-bulletproofs
 tags:
   - rust
