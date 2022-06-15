@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in bridging the gap between research and applied cryptography. In practice, that means designing, reviewing, and implementing privacy-preserving cryptographic protocols. These include zero-knowledge proofs (Bulletproofs), Private Information Retrieval (PIR) schemes, VOPRF based anonymous token protocols (Trust Tokens, used in Chrome), and Google/Apple's Exposure Notifications API. 
+I'm interested in bridging the gap between research and applied cryptography. In practice, that means designing, reviewing, and implementing privacy-preserving cryptographic protocols. These include Zero-Knowledge Proofs (Bulletproofs), Private Information Retrieval (PIR), and Anonymous Tokens (Trust Tokens and Blind Signatures). I'm currently at Google, working on making Fully Homomorphic Encryption (FHE) practical.
