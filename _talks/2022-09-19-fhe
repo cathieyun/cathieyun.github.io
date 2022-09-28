@@ -1,0 +1,11 @@
+---
+title: "Fully Homomorphic Encryption - Unlocking the potential of FHE"
+collection: talks
+type: "Presentation"
+permalink: /talks/2022-09-19-fhe
+venue: "Safer With Google (Google internal security summit)"
+date: 2022-09-19
+location: "Sunnyvale"
+---
+
+Shruthi and I gave a talk at Safer With Google, the Google internal security summit, about our team's work on making Fully Homomorphic Encryption (FHE) practical. The video and slides are not available to the public, but Googlers can view them at [go/swg-summit](go/swg-summit).
