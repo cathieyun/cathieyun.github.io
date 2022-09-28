@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in bridging the gap between research and applied cryptography. In practice, that means designing, reviewing, and implementing privacy-preserving cryptographic protocols. I'm currently at Google, working on making Fully Homomorphic Encryption (FHE) practical for real-world use, through a general-purpose [FHE Transpiler](https://github.com/google/fully-homomorphic-encryption), as well as through cryptographic and hardware improvements. 
+I'm interested in bridging the gap between research and applied cryptography. In practice, that means designing, reviewing, and implementing privacy-preserving cryptographic protocols. I'm currently at Google, working on making Fully Homomorphic Encryption (FHE) practical for real-world use. We are trying to do this through a general-purpose [FHE Transpiler](https://github.com/google/fully-homomorphic-encryption), as well as through cryptographic and hardware improvements. 
 
 I used to work on Google's cryptography security team, doing protocol/code reviews and penetration testing for products. These include [Google/Apple's Exposure Notifications](https://www.google.com/covid19/exposurenotifications/), anonymous token protocols ([Trust Tokens](https://developer.chrome.com/en/docs/privacy-sandbox/trust-tokens/) for Chrome, and [blind signature based tokens](https://one.google.com/about/vpn/howitworks) for Google One's VPN), and the [Private Information Retrieval (PIR)](https://github.com/google/private-retrieval) service.
 
