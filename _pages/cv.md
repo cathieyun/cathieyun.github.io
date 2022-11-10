@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download Cathie's CV [here](https://drive.google.com/file/d/18vCCvLKReWIIxztbq22PqBvfvgV2oZS3/view?usp=sharing).
+Download Cathie's CV [here](https://drive.google.com/file/d/1FufEv-a_WH9umNc9JuuyIhcVT2Boi6XD/view?usp=share_link).
