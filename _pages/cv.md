@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download Cathie's CV [here](https://drive.google.com/file/d/1FufEv-a_WH9umNc9JuuyIhcVT2Boi6XD/view?usp=share_link).
+Download Cathie's CV [here](http://cathieyun.github.io/files/cathie-yun-resume.pdf).
