@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in bridging the gap between research and applied cryptography. I'm currently a cryptography engineer at Apple, working on libraries such as corecrypto and CryptoKit, and bringing my cryptographic expertise to Apple features and products.
+I'm interested in bridging the gap between research and applied cryptography. I'm currently a cryptography engineer at Apple, working on libraries such as corecrypto and CryptoKit, with a focus on [post-quantum cryptography](https://developer.apple.com/videos/play/wwdc2025/314/) and anonymous credentials (eg [ARC](https://datatracker.ietf.org/doc/draft-yun-cfrg-arc/)).
 
 Previously I was at Google, working on making Fully Homomorphic Encryption (FHE) practical. I implemented [Jaxite](https://github.com/google/jaxite), a TFHE library written in JAX to target TPU and GPUs, and worked on a general-purpose [FHE Transpiler](https://github.com/google/fully-homomorphic-encryption). I was also on Google's security team, doing cryptography protocol design, security reviews, and red teaming. 
 
